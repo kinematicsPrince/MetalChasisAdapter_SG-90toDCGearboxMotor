@@ -3,8 +3,6 @@
 
 A 3D printed adapter that enables the use of a DCGearboxMotor on a frame designed for SG-90 servos
 
-link to frame: https://www.adafruit.com/product/2943
-
 ## 3D Printer Parameters (can be changed)
 - 15% infill density
 - 2 wall loops
