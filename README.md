@@ -17,10 +17,10 @@ link to frame: https://www.adafruit.com/product/2943
 
 ## Hardware Requirements
 
-- Anodized Aluminum Metal Chasis for a Mini Robot Rover
+- Anodized Aluminum Metal Chasis for a Mini Robot Rover (link to frame: https://www.adafruit.com/product/2943)
 - 3D printer / Plastic filament
 - A screw (ex.: from SG-90 kit)
-- 2x DC Gearbox Motor "TT Motor"
+- 2x DC Gearbox Motor "TT Motor" (link to frame: https://www.adafruit.com/product/3777)
 
 
 ## Files
