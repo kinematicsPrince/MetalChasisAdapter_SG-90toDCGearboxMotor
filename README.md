@@ -18,7 +18,7 @@ A 3D printed adapter that enables the use of a DCGearboxMotor on a frame designe
 - Anodized Aluminum Metal Chasis for a Mini Robot Rover (link to frame: https://www.adafruit.com/product/2943)
 - 3D printer / Plastic filament
 - A screw (ex.: from SG-90 kit)
-- 2x DC Gearbox Motor "TT Motor" (link to frame: https://www.adafruit.com/product/3777)
+- 2x DC Gearbox Motor "TT Motor" (link to motor: https://www.adafruit.com/product/3777)
 
 
 ## Files
