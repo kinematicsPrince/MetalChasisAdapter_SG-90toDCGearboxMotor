@@ -10,14 +10,14 @@ A 3D printed adapter that enables the use of a DCGearboxMotor on a frame designe
 
 ## Features
 
-- Only one screw (screw from SG-90 kit)
-- Light and Cheap (under 20g of PLA for both side)
+- Only one screw per side (ex.: from SG-90 kit)
+- Light and Cheap (under 10g of PLA per side)
 
 ## Hardware Requirements
 
 - Anodized Aluminum Metal Chasis for a Mini Robot Rover (link to frame: https://www.adafruit.com/product/2943)
 - 3D printer / Plastic filament
-- A screw (ex.: from SG-90 kit)
+- 2x screw (ex.: from SG-90 kit)
 - 2x DC Gearbox Motor "TT Motor" (link to motor: https://www.adafruit.com/product/3777)
 
 
