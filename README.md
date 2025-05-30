@@ -44,4 +44,5 @@ A 3D printed adapter that enables the use of a DCGearboxMotor on a frame designe
 ![IMG_6207](https://github.com/user-attachments/assets/8526f51e-4500-4c6d-85f0-bd16d45010dc)
 
 ## Top View
+*You can observe the groove connection
 ![IMG_6208](https://github.com/user-attachments/assets/ab48c816-a5ca-406d-a772-14107fdb27ec)
