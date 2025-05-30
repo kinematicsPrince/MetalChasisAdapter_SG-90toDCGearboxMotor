@@ -33,8 +33,11 @@ A 3D printed adapter that enables the use of a DCGearboxMotor on a frame designe
 - There are two connections, one is from the screw, taking advantage of the hole present in the chassis. The second one is not an actual connection, the 3d printed part has a groove that slides into the chasis, it prevents the adapter from going front, back, bottom, and top, but no left or right (the screw prevents that).
 - As the filets are created when the screw is screwed into the PLA (in my case), the connection might become loose overtime if the reassembled many times.
 - Consider printing one side, as some modifications might be required to fit your 3d printer.
-  
+
+## 3D Printed Part
 ![IMG_6201](https://github.com/user-attachments/assets/723578b5-6f47-4f02-a2a2-90d27ddc4040)
+
+## 
 ![IMG_6205](https://github.com/user-attachments/assets/eefcfd62-9d7c-490b-a130-b4e737d93637)
 ![IMG_6207](https://github.com/user-attachments/assets/8526f51e-4500-4c6d-85f0-bd16d45010dc)
 ![IMG_6208](https://github.com/user-attachments/assets/ab48c816-a5ca-406d-a772-14107fdb27ec)
